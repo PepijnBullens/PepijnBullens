@@ -4,8 +4,8 @@ I'm a software developer with a passion for coding and a love for music. I enjoy
 
 ## 🎯 Skills
 
-- **Languages:** PHP, HTML, CSS, JS, SASS, C#, MYSQL, Lua, python, P5.JS, 
-- **Tools:** Git, DBeaver, phpMyAdmin, unity, blender
+- **Languages:** Laravel, (Inertia) React, NextJS, PHP, HTML, CSS, SCSS, JS 
+- **Tools:** Git, Figma, DBeaver, phpMyAdmin, Unity, Blender
 
 ## 🎵 Outside of Coding
 
