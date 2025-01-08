@@ -1,17 +1,16 @@
-# Hi, I'm Pepijn Bullens 👋
+# Hey, ik ben Pepijn Bullens 👋
 
-I'm a software developer with a passion for coding and a love for music. I enjoy working on projects that challenge me and allow me to learn new technologies.
+Ik ben een software developer met een passie voor programmeren en muziek. Ik hou van werken aan uitdagende projecten die mij nieuwe technieken aanleren.
+Op dit moment volg ik een studie "Creative Software Development" met een profiel "Web Development" aan het Grafisch Lyceum Utrecht.
+Buiten programmeren hou ik ook erg van muziek! Jazz heeft mijn voorkeur bij het spelen van gitaar, piano en sinds kort saxofoon. Maar ik luister echt van alles.
+Ik sta altijd open voor contact over codeerprojecten en of voor andere punten! Je kan mij het beste bereiken via mijn [Instagram](https://pepijnbullens.nl/).
 
-## 🎯 Skills
+## 🎯 Vaardigheden
 
-- **Languages:** Laravel, (Inertia) React, NextJS, PHP, HTML, CSS, SCSS, JS 
+- **Mijn meest gebruikte codeer talen/frameworks:** Laravel, (Inertia) React, NextJS, PHP, HTML, CSS, SCSS, JS 
 - **Tools:** Git, Figma, DBeaver, phpMyAdmin, Unity, Blender
-
-## 🎵 Outside of Coding
-
-When I'm not coding, you'll probably find me creating or listening to music.
 
 ## 📫 Get in Touch
 
-- **Personal Website:** https://pepijnbullens.nl/
+- **Persoonlijke Website:** https://pepijnbullens.nl/
 - **Instagram:** https://www.instagram.com/pepijnbullens/
