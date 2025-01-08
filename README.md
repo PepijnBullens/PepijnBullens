@@ -14,3 +14,4 @@ Ik sta altijd open voor contact over codeerprojecten en of voor andere punten! J
 
 - **Persoonlijke Website:** https://pepijnbullens.nl/
 - **Instagram:** https://www.instagram.com/pepijnbullens/
+- **LinkedIn:** https://www.linkedin.com/in/pepijn-bullens/
