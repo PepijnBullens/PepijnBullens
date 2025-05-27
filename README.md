@@ -7,7 +7,7 @@ Ik sta altijd open voor contact over codeerprojecten en of voor andere punten! J
 
 ## 🎯 Vaardigheden
 
-- **Mijn meest gebruikte codeer talen/frameworks:** Laravel, React, NextJS, Tailwind, Typescript, GSAP, Framer Motion
+- **Technieken:** Laravel, React, NextJS, Tailwind, Typescript, GSAP, Framer Motion
 - **Tools:** Git, Figma, DBeaver, phpMyAdmin, Unity, Blender
 
 ## 📫 Get in Touch
