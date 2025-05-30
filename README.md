@@ -1,7 +1,7 @@
 # Hey 👋, I'm Pepijn Bullens
 
 Full-stack Developer with a passion for programming and music. I enjoy working on challenging projects that teach me new techniques.
-Currently, I am studying "Creative Software Development" with a focus on "Web Development" at the Grafisch Lyceum Utrecht.
+Currently, I am studying "Creative Software Development" with a focus on "Web Development" at the [Grafisch Lyceum Utrecht](https://www.glu.nl/opleiding/creative-software-development-mbo/).
 
 Outside of programming, I also really enjoy music! Jazz is my favorite when it comes to playing guitar, piano, and more recently, saxophone. But I listen to pretty much everything.
 I’m always open to getting in touch about coding projects or other topics! 
