@@ -1,4 +1,4 @@
-# Hey, ik ben Pepijn Bullens 👋
+# Hey, I'm Pepijn Bullens 👋
 
 I am a Full-stack Developer with a passion for programming and music. I enjoy working on challenging projects that teach me new techniques.
 Currently, I am studying "Creative Software Development" with a focus on "Web Development" at the Grafisch Lyceum Utrecht.
@@ -8,9 +8,6 @@ I’m always open to getting in touch about coding projects or other topics! You
 ## 🎯 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=git,blender,figma,react,nextjs,laravel,php,nodejs,ts,js,css,sass,tailwind,cs,mysql,postgres,prisma,unity&theme=dark)](https://skillicons.dev)
-
-- **Technieken:** Laravel, React, NextJS, Tailwind, Typescript, GSAP, Framer Motion
-- **Tools:** Git, Figma, DBeaver, phpMyAdmin, Unity, Blender
 
 ## 📫 Get in Touch
 
