@@ -1,11 +1,13 @@
 # Hey, ik ben Pepijn Bullens 👋
 
-Ik ben een Full-stack Developer met een passie voor programmeren en muziek. Ik hou van werken aan uitdagende projecten die mij nieuwe technieken aanleren.
-Op dit moment volg ik een studie "Creative Software Development" met een profiel "Web Development" aan het Grafisch Lyceum Utrecht.
-Buiten programmeren hou ik ook erg van muziek! Jazz heeft mijn voorkeur bij het spelen van gitaar, piano en sinds kort saxofoon. Maar ik luister echt van alles.
-Ik sta altijd open voor contact over codeerprojecten en of voor andere punten! Je kan mij het beste bereiken via mijn [Instagram](https://pepijnbullens.nl/).
+I am a Full-stack Developer with a passion for programming and music. I enjoy working on challenging projects that teach me new techniques.
+Currently, I am studying "Creative Software Development" with a focus on "Web Development" at the Grafisch Lyceum Utrecht.
+Outside of programming, I also really enjoy music! Jazz is my favorite when it comes to playing guitar, piano, and more recently, saxophone. But I listen to pretty much everything.
+I’m always open to getting in touch about coding projects or other topics! You can reach me best via my [Instagram](https://pepijnbullens.nl/).
 
-## 🎯 Vaardigheden
+## 🎯 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=git,blender,figma,react,nextjs,laravel,php,nodejs,ts,js,css,sass,tailwind,cs,mysql,postgres,prisma,unity&theme=dark)](https://skillicons.dev)
 
 - **Technieken:** Laravel, React, NextJS, Tailwind, Typescript, GSAP, Framer Motion
 - **Tools:** Git, Figma, DBeaver, phpMyAdmin, Unity, Blender
