@@ -7,7 +7,7 @@ I’m always open to getting in touch about coding projects or other topics! You
 
 ## 🎯 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,blender,figma,react,nextjs,laravel,php,nodejs,ts,js,css,sass,tailwind,cs,mysql,postgres,prisma,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,figma,react,nextjs,laravel,php,nodejs,ts,js,sass,tailwind,cs,mysql,postgres,prisma&theme=dark)](https://skillicons.dev)
 
 ## 📫 Get in Touch
 
