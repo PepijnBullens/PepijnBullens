@@ -11,6 +11,6 @@ I’m always open to getting in touch about coding projects or other topics! You
 
 ## 📫 Get in Touch
 
-- **Portfolio Website:** https://pepijnbullens.nl/
-- **Instagram:** https://www.instagram.com/pepijnbullens/
-- **LinkedIn:** https://www.linkedin.com/in/pepijn-bullens/
+- [Portfolio Website](https://pepijnbullens.nl/)
+- [Instagram](https://www.instagram.com/pepijnbullens/)
+- [LinkedIn](https://www.linkedin.com/in/pepijn-bullens/)
