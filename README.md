@@ -1,4 +1,4 @@
-# Wassup, I'm Pepijn Bullens
+# Yo, I'm Pepijn Bullens
 
 A full-stack web developer, but really just a guy who likes solving problems with a passion for coding and music. I love working on challenging projects that teach me new techniques or just code challenges in general.
 Currently, I am studying Creative Software Development at [Grafisch Lyceum Utrecht](https://www.glu.nl/opleiding/creative-software-development-mbo/).
