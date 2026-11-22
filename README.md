@@ -1,1 +1,1 @@
-<a href="https://www.linkedin.com/in/pepijn-bullens/" target="_blank">Linkedin</a>
+<a href="https://www.linkedin.com/in/pepijnbullens/" target="_blank">linkedin.com/in/pepijnbullens</a>
